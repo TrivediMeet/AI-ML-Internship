@@ -49,7 +49,7 @@ This repository contains the work completed during my **4-week internship as an 
 - **Frameworks & Libraries:** TensorFlow, PyTorch, OpenCV, NumPy, Pandas  
 - **Object Detection:** YOLOv8  
 - **Environment:** Google Colab, Jupyter Notebook  
-- **Dataset:** AID (Aerial Image Dataset)  
+- **Dataset:** AID (Aerial Image Dataset) , xView(imagery dataset for training yolo models)
 
 ---
 
