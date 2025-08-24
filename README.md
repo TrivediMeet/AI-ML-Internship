@@ -53,4 +53,30 @@ This repository contains the work completed during my **4-week internship as an 
 
 ---
 
-## **Project Structure**  
+
+---
+
+## **How to Run the Notebooks**  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/your-username/internship-projects.git
+   cd internship-projects
+2. Open the desired .ipynb file in Google Colab or Jupyter Notebook.
+
+3. Install dependencies:
+
+
+## **Key Learnings**
+
+Understanding Deep Learning fundamentals.
+
+Building Image Classification models.
+
+Implementing YOLO-based Object Detection.
+
+Applying Model Fine-Tuning & Optimization techniques.
+
+## **Conclusion**
+
+This internship provided hands-on experience in AI/ML with real-world datasets and projects. It enhanced my expertise in Computer Vision, Model Training, and Performance Optimization.
+I am grateful to TLK Industries Private Limited for providing this opportunity to learn and grow.
